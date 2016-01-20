@@ -1,0 +1,19 @@
+{
+  "command": {
+    "create": {
+      "workspace": {
+        "function": "_Create_Workspace"
+      },
+      "task": {
+        "function": "_Create_Task"
+      }
+    },
+    "show": {},
+    "search": {
+      "function": "_Search"
+    },
+    "fuckit": {
+      "function": "_Abort"
+    }
+  }
+}
