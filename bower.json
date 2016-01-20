@@ -1,0 +1,21 @@
+{
+  "name": "sp-speech-actions",
+  "homepage": "https://github.com/olemp/sp-speech-actions",
+  "authors": [
+    "olemp <olemp@puzzlepart.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
