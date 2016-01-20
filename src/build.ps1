@@ -1,0 +1,1 @@
+tsc --out ..\dist\sp.speech.actions.js sp.speech.actions.ts
